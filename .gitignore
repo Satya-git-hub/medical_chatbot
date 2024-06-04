@@ -1,0 +1,5 @@
+.env
+model
+genai
+Medical_Chatbot.egg-info
+.DS_Store
